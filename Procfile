@@ -1,1 +1,1 @@
-worker: python ./Server.py
+one-off: python Server.py
